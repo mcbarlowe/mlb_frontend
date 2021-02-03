@@ -1,0 +1,14 @@
+{
+  "name": "mlb_pitch_frontend",
+  "version": "1.0.0",
+  "description": "The frontend for Nick Wan's mlb pitch graphs",
+  "main": "index.js",
+  "author": "Matthew Barlowe",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.17",
+    "objection": "^2.2.14",
+    "pg": "^8.5.1"
+  }
+}
